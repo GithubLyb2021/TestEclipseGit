@@ -14,6 +14,7 @@ int add(int a, int b){
 }
 
 int sum(int a, int b){
+	cout << "sum result:" << endl;
 
 	return a - b;
 
